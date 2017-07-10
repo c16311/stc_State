@@ -8,7 +8,7 @@
 ・HasCoinState.java  
 ・Main.java  
 ・NoCoinState.java  
-・SafeMachine.java  
+・SafeMachine.java  
 ・SoldOutState.java
 ・SoldState.java
 ・State.java
